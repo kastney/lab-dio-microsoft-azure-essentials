@@ -10,5 +10,5 @@ Este repositório que contém todos os resumos que fiz a respeito do conteúdo a
 
 | Cursos | Links |
 | - | - |
-| Introdução a Computação em Nuvem | [resumo]() |
+| Introdução a Computação em Nuvem | [resumo](Summaries/introduction-to-cloud-computing.md) |
 
