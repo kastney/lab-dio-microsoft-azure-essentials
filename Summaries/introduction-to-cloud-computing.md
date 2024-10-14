@@ -119,9 +119,9 @@ Esse modelo é fundamental para promover a eficiência financeira, pois incentiv
 | Nuvem Privada | Controle total sobre infraestrutura e conformidade. | Requer altos investimentos e manutenção. |
 | Nuvem Híbrida | Combina flexibilidade e controle. | Maior complexidade de implementação. |
 
----
-
 <br><br><br>
+
+---
 
 ## **Conclusão**
 
