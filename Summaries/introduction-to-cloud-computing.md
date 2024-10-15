@@ -1,8 +1,6 @@
 # **Introdução a Computação em Nuvem**
 
-<br><br><br>
-
----
+<br><br>
 
 ## **O que é Computação em Nuvem?**
 
