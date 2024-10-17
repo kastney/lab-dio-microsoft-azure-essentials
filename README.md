@@ -13,3 +13,4 @@ Este repositório que contém todos os resumos que fiz a respeito do conteúdo a
 | Introdução a Computação em Nuvem | [acessar](Summaries/introduction-to-cloud-computing.md) |
 | Benefícios da Computação em Nuvem | [acessar](Summaries/benefits-of-cloud-computing.md) |
 | Tipos de Serviço de Nuvem | [acessar](Summaries/cloud-service-types.md) |
+| Componentes de Arquitetura do Azure | [acessar](Summaries/azure-architecture-components.md) |

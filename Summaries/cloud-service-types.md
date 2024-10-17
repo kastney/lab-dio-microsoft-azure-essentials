@@ -10,7 +10,7 @@ Com a evolução da tecnologia e a crescente adoção da computação em nuvem, 
 
 ## **Infraestrutura como Serviço (IaaS)**
 
-O modelo **IaaS** permite que as empresas aluguem recursos de infraestrutura, como servidores, máquinas virtuais, armazenamento e redes, de um provedor de nuvem..
+O modelo **IaaS** permite que as empresas aluguem recursos de infraestrutura, como servidores, máquinas virtuais, armazenamento e redes, de um provedor de nuvem.
 
 - **Características**:
     - Os clientes são responsáveis por gerenciar o sistema operacional, as aplicações e as configurações.
