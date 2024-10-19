@@ -99,7 +99,7 @@ O DNS do Azure oferece um serviço de gerenciamento de nomes que garante alta di
 O Azure fornece um Serviço de Aplicativo que permite criar, implantar e escalar aplicativos web e APIs rapidamente.
 
 - **Compatibilidade**:
-    - Suporta tecnologias como **.NET**, **.NET Core**, **Node.js**, **Java**, **PHP** e **Python**.
+    - Suporta tecnologias como **.NET**, **.NET Core**, **Node.js**, **Java** e **Python**.
 
 - **Vantagens**:
     - Requisitos corporativos de desempenho, segurança e conformidade.
