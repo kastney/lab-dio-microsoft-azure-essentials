@@ -66,7 +66,7 @@ O Azure oferece diversas opções de redundância, garantindo que os dados perma
 
 - **Geo-Redundant Storage (GRS)**: Replicação entre regiões diferentes, garantindo maior proteção contra falhas regionais.
 
-- **Read-Access Geo-Redundant Storage (RA-GRS)**: Além da replicação, oferece acesso de leitura aos dados em uma região secundária.
+- **Geo-Zone Redundant Storage (GZRS)**: Os dados são replicados com redundância de zona geográfica.
 
 <br><br><br>
 

@@ -16,3 +16,4 @@ Este repositório que contém todos os resumos que fiz a respeito do conteúdo a
 | Componentes de Arquitetura do Azure | [acessar](Summaries/azure-architecture-components.md) |
 | Computação e Rede na Azure | [acessar](Summaries/compute-and-network-on-azure.md) |
 | Armazenamento do Azure | [acessar](Summaries/azure-storage.md) |
+| Identidade, Acesso e Segurança | [acessar](Summaries/identity-access-and-security.md) |
