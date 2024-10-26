@@ -39,3 +39,7 @@ O Microsoft Azure oferece soluções robustas para proteger recursos corporativo
 ### [🔗 Gerenciamento de Custos na Azure](Summaries/cost-management-on-azure.md)
 
 O Microsoft Azure oferece ferramentas para prever, otimizar e monitorar gastos na nuvem. Fatores como uso de recursos, localização e camadas de serviço influenciam os custos. Calculadoras de preços e TCO ajudam na previsão de despesas. A plataforma permite definir orçamentos, enviar alertas e aplicar tags para organizar recursos. O Azure Marketplace expande opções com soluções prontas para integração, garantindo eficiência e governança financeira.
+
+### [🔗 Primeiros Passos com Governança e Conformidade na Azure](Summaries/get-started-with-governance-and-compliance-on-azure.md)
+
+A governança e a conformidade no Microsoft Azure são essenciais para manter controle sobre recursos de TI, segurança e regulamentações. Ferramentas como Azure Policy garantem que todos os recursos sigam diretrizes organizacionais, enquanto bloqueios de recursos protegem contra exclusões acidentais. O Microsoft Purview oferece uma visão unificada dos dados, facilitando a conformidade com normas como GDPR. O Portal de Confiança do Serviço fornece transparência sobre segurança e conformidade, ajudando em auditorias e monitoramento.
