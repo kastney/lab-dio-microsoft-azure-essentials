@@ -43,3 +43,7 @@ O Microsoft Azure oferece ferramentas para prever, otimizar e monitorar gastos n
 ### [🔗 Primeiros Passos com Governança e Conformidade na Azure](Summaries/get-started-with-governance-and-compliance-on-azure.md)
 
 A governança e a conformidade no Microsoft Azure são essenciais para manter controle sobre recursos de TI, segurança e regulamentações. Ferramentas como Azure Policy garantem que todos os recursos sigam diretrizes organizacionais, enquanto bloqueios de recursos protegem contra exclusões acidentais. O Microsoft Purview oferece uma visão unificada dos dados, facilitando a conformidade com normas como GDPR. O Portal de Confiança do Serviço fornece transparência sobre segurança e conformidade, ajudando em auditorias e monitoramento.
+
+### [🔗 Ferramentas de Gerenciamento e Implantação Azure](Summaries/azure-deployment-and-management-tools.md)
+
+O Microsoft Azure oferece diversas ferramentas para criar, gerenciar e implantar recursos com eficiência. O Portal do Azure permite administração gráfica, enquanto PowerShell e CLI automatizam tarefas via linha de comando. O Azure Resource Manager (ARM) possibilita infraestrutura como código (IaC) para implantações consistentes. O Azure Arc estende a gestão a ambientes híbridos e multinuvem, consolidando a administração em uma única plataforma.
