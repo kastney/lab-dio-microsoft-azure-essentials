@@ -47,3 +47,7 @@ A governança e a conformidade no Microsoft Azure são essenciais para manter co
 ### [🔗 Ferramentas de Gerenciamento e Implantação Azure](Summaries/azure-deployment-and-management-tools.md)
 
 O Microsoft Azure oferece diversas ferramentas para criar, gerenciar e implantar recursos com eficiência. O Portal do Azure permite administração gráfica, enquanto PowerShell e CLI automatizam tarefas via linha de comando. O Azure Resource Manager (ARM) possibilita infraestrutura como código (IaC) para implantações consistentes. O Azure Arc estende a gestão a ambientes híbridos e multinuvem, consolidando a administração em uma única plataforma.
+
+### [🔗 Ferramentas de Monitoramento Azure](Summaries/azure-monitoring-tools.md)
+
+O Microsoft Azure oferece um conjunto robusto de ferramentas de monitoramento, fundamentais para garantir alta disponibilidade e desempenho em ambientes de nuvem. O Assistente do Azure fornece recomendações automatizadas para otimizar recursos, enquanto a Integridade do Serviço oferece visibilidade em tempo real sobre o status operacional. O Azure Monitor é a principal ferramenta de monitoramento, coletando e analisando telemetria, logs e alertas. Juntas, essas ferramentas ajudam as empresas a detectar e resolver problemas rapidamente, assegurando operações eficientes e otimizadas na nuvem.
